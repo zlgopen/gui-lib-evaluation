@@ -192,6 +192,10 @@ github 上的开源 GUI 引擎至少有数十个，如何去评估它们的优�
 
 > 事件有没有区分 Bubbling 和 capturing 阶段？事件在不同阶段是否可以中止执行？是否有 pointer down abort 或 pointer down cancel 之类的事件？
 
+#### 2.26 framebuffer
+
+> 是否支持单 framebuffer？是否支持双 framebuffer？是否支持 3 framebuffer？是否支持 fragment framebuffer? 是否支持单色屏？是否能支持各种特殊的格式的 framebuffer? 是否支持 SPI 等特殊硬件的屏？
+
 ## 3. 性能
 
 #### 3.1 高效的算法
